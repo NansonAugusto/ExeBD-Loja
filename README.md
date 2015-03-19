@@ -1,0 +1,2 @@
+# ExeBD-Loja
+6) Escrever um algoritmo para criar um arquivo contendo os dados dos produtos de uma loja. Os campos dos registros são: código do produto, descrição do produto e quantidade do produto em estoque. O algoritmo deve conter as operações: inclusão de produtos e listagem de todos os produtos. Após o algoritmo pronto, codifique-o usando a linguagem Java: faça uso de serialização/desserialização de objetos.
